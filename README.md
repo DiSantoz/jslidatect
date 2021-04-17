@@ -8,7 +8,7 @@ I cleaned :broom: up the HTML by adding semantic elements and getting rid of div
 
 Ensured all links were functional, eliminated repetitive css for an easy to follow codebase for long-term sustainability.
 
-What you'll see before you is the [final product](https://disantoz.github.io/jslidatect/#social-media-marketing).
+What you'll see before you is the [final product](https://disantoz.github.io/jslidatect).
 
 ## Usage
 
