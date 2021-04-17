@@ -94,7 +94,6 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
 /* end of  marketing sections css */
 
 /* start of benefits section css */
@@ -124,10 +123,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
 /* end of benefits section*/
 
-
+/* footer styling */
 .footer {
     padding: 30px;
 }
