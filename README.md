@@ -18,5 +18,5 @@ The website header redirects to different sections of the page to get a better u
 
 After clicking on one of the header topics, you will be taken to the corresponding section .
 
-![alt text](./assets/images/header.png "Horiseon's section breakdown")
+![alt text](./assets/images/section.png "Horiseon's section breakdown")
 
